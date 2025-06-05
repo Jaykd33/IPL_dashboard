@@ -141,6 +141,6 @@ See waht the Dashboard looks like:
 
 ![Overview Page](https://github.com/Jaykd33/IPL_dashboard/blob/main/Inside%20IPL_Page2.png)
 
-![Team and Players Page]()
+![Team and Players Page](https://github.com/Jaykd33/IPL_dashboard/blob/main/Inside%20IPL_Page3.png)
 
-![Records Page]()
+![Records Page](https://github.com/Jaykd33/IPL_dashboard/blob/main/Inside%20IPL_Page4.png)
