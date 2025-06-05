@@ -7,14 +7,23 @@ A vibrant and immersive dashboard capturing the electrifying action of IPL 2025�
 The Inside IPL 2025 Dashboard is a visually striking, interactive Power BI report that brings real-time IPL data to life. Built for cricket fans, analysts, content creators, and sports marketers, it offers live match updates, team details, historical records, and player statistics—all in one seamless visual story.
 
 🧰 Tech Stack
+
 The dashboard was built using the following tools and technologies:
+
 • 📊 Power BI Desktop – Main platform for visual development.
+
 • 🔄 Power Query Editor – For cleaning, reshaping, and transforming complex data sources.
+
 • 🧠 DAX (Data Analysis Expressions) – Used for KPIs like win percentages, best strike rates, and custom indicators.
+
 • 🌐 Live Web Data Extraction – Pulled IPL 2025 points tables and match results from Cricbuzz using Power BI’s built-in web connectors.
+
 • 🔗 API Integration – Explored APIs on RapidAPI, though challenges like API key access limits and site restrictions were encountered.
+
 • 🎨 Custom Visuals with HTML & CSS – Designed interactive player cards and stylized buttons directly inside Power BI using rich formatting.
+
 • 📁 File Format – Developed in .pbix, shared through .png snapshots and .pbit templates.
+
 
 📚 Data Source
 Primary Source: [Cricbuzz IPL 2025 live updates] – scraped via web connector.
