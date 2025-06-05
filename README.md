@@ -94,7 +94,7 @@ Serves as a learning experiment to understand web scraping, API limits, and Powe
 
 • 👥 Squad Roster Table: Filterable by team and player role, enabling deep team-wise exploration.
 
-##### 🔹 Page 3 – Team & Player Page
+###### 🔹 Page 3 – Team & Player Page
 
 • 🔘 Clickable Team Buttons: Takes user to filtered player tables based on selected team.
 
@@ -102,7 +102,7 @@ Serves as a learning experiment to understand web scraping, API limits, and Powe
 
 • 🎨 Custom Cards: Created using formatted text boxes and visuals to give a sleek, cricket-themed appearance.
 
-##### 🔹 Page 4 – Records Page
+###### 🔹 Page 4 – Records Page
 
 • 📈 Year-wise Orange & Purple Cap Winners: Tabulated with color-coded visuals for trend spotting.
 
